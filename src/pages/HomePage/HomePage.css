@@ -1,0 +1,8 @@
+.home-bg {
+    background: url(../../assets/images/homepage-bg.png) no-repeat center center fixed;
+    min-height: calc(100vh - 90px);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

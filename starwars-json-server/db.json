@@ -1,0 +1,82 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Test"
+    }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Yoda",
+      "gender": "Male",
+      "race": "Undefined",
+      "side": "Light",
+      "urlName": "Yoda"
+    },
+    {
+      "id": 2,
+      "name": "Rey",
+      "gender": "Female",
+      "race": "Human",
+      "side": "Light",
+      "urlName": "Rey"
+    },
+    {
+      "id": 3,
+      "name": "Chewbacca",
+      "gender": "Male",
+      "race": "Wookie",
+      "side": "Light",
+      "urlName": "Chewbacca"
+    },
+    {
+      "id": 4,
+      "name": "Lando Calrissian",
+      "gender": "Male",
+      "race": "Human",
+      "side": "Light",
+      "urlName": "lando-calrissian"
+    },
+    {
+      "id": 5,
+      "name": "Darth Vader",
+      "gender": "Male",
+      "race": "Human",
+      "side": "Dark",
+      "urlName": "darth-vader"
+    },
+    {
+      "id": 6,
+      "name": "BB-8",
+      "gender": "Male",
+      "race": "Droid",
+      "side": "Light",
+      "urlName": "bb-8"
+    },
+    {
+      "id": 7,
+      "name": "Kylo Ren",
+      "gender": "Male",
+      "race": "Human",
+      "side": "Dark",
+      "urlName": "kylo-ren"
+    },
+    {
+      "id": 8,
+      "name": "Luke Skywalker",
+      "gender": "Male",
+      "race": "Human",
+      "side": "Light",
+      "urlName": "luke-skywalker"
+    },
+    {
+      "id": 9,
+      "name": "Emperor Palpatine",
+      "gender": "Male",
+      "race": "Human",
+      "side": "Dark",
+      "urlName": "emperor-palpatine"
+    }
+  ]
+}
