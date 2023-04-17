@@ -44,6 +44,7 @@ export function SearchAddCharacterComponent() {
     }
 
     const sideSelectChange = (target: any) => {
+        console.log(123)
         filterByField(target, 'side');
     }
 
