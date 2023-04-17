@@ -36,14 +36,17 @@ export function SearchAddCharacterComponent() {
     }
 
     const genderSelectChange = (target: any) => {
+        console.log('1')
         filterByField(target, 'gender');
     }
 
     const raceSelectChange = (target: any) => {
+        console.log('2')
         filterByField(target, 'race');
     }
 
     const sideSelectChange = (target: any) => {
+        console.log('3')
         filterByField(target, 'side');
     }
 
